@@ -14,7 +14,7 @@ def on_calculate():
 # Create the main window
 root = tk.Tk()
 root.title("Calculator")
-root.geometry("500x200")
+root.geometry("800x200")
 
 # Create and place the input field
 test = tk.Label(root, text="Enter your calculation:")
